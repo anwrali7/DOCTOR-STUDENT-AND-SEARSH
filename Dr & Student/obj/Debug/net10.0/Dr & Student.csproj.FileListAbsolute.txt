@@ -1,0 +1,14 @@
+D:\my c#\Dr & Student\Dr & Student\bin\Debug\net10.0\Dr & Student.exe
+D:\my c#\Dr & Student\Dr & Student\bin\Debug\net10.0\Dr & Student.deps.json
+D:\my c#\Dr & Student\Dr & Student\bin\Debug\net10.0\Dr & Student.runtimeconfig.json
+D:\my c#\Dr & Student\Dr & Student\bin\Debug\net10.0\Dr & Student.dll
+D:\my c#\Dr & Student\Dr & Student\bin\Debug\net10.0\Dr & Student.pdb
+D:\my c#\Dr & Student\Dr & Student\obj\Debug\net10.0\Dr & Student.GeneratedMSBuildEditorConfig.editorconfig
+D:\my c#\Dr & Student\Dr & Student\obj\Debug\net10.0\Dr & Student.AssemblyInfoInputs.cache
+D:\my c#\Dr & Student\Dr & Student\obj\Debug\net10.0\Dr & Student.AssemblyInfo.cs
+D:\my c#\Dr & Student\Dr & Student\obj\Debug\net10.0\Dr & Student.csproj.CoreCompileInputs.cache
+D:\my c#\Dr & Student\Dr & Student\obj\Debug\net10.0\Dr & Student.dll
+D:\my c#\Dr & Student\Dr & Student\obj\Debug\net10.0\refint\Dr & Student.dll
+D:\my c#\Dr & Student\Dr & Student\obj\Debug\net10.0\Dr & Student.pdb
+D:\my c#\Dr & Student\Dr & Student\obj\Debug\net10.0\Dr & Student.genruntimeconfig.cache
+D:\my c#\Dr & Student\Dr & Student\obj\Debug\net10.0\ref\Dr & Student.dll
